@@ -17,7 +17,7 @@
 </div>
 
 ## slt cv
-This package is a patch of discord.js@11.5.1 developed by molo#0001  
+This package is a patch of discord.js@11.5.1 developed by molo#0001 and patched by alg :P
 For use it, simply do `npm i v11-discord.js` and replace `const Discord = require("discord.js")` by `const Discord = require("v11-discord.js")`  
 I do not advise you to use this version, but it can be very useful for self bots so I modified some things if you use the package with an user account.
 
